@@ -2,6 +2,8 @@
 
 Aplikasi manajemen keuangan berbasis Command Line Interface (CLI) ini membantu Anda untuk mengelola transaksi keuangan secara mudah dan efisien. Dengan aplikasi ini, Anda bisa melihat transaksi, menambah transaksi baru, mengubah data transaksi, menghapus transaksi, serta melihat anggaran bulanan dan laporan keuangan Anda.
 
+![ss](https://github.com/user-attachments/assets/2d0bdc9a-101c-4c76-bc93-87a45984313e)
+
 ## Menu Utama
 Setelah menjalankan aplikasi, Anda akan disuguhkan dengan menu utama yang berisi pilihan-pilihan berikut:
 
