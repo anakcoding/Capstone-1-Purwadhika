@@ -34,5 +34,7 @@ Keluar dari program
 ## Fitur-fitur
 
 **Manajemen Transaksi**: Menambah, mengubah, dan menghapus transaksi keuangan.
+
 **Anggaran Bulanan**: Melihat dan mengelola anggaran pengeluaran bulanan.
+
 **Laporan Keuangan**: Menghasilkan laporan pemasukan dan pengeluaran berdasarkan rentang waktu tertentu.
